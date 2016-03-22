@@ -1,4 +1,18 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<div class="container">
+		<a href="truck.html"><img src="truck.svg" alt="" class="img-rounded"></a>
+		<a href="train.html"><img src="train.svg" alt="" class="img-rounded"></a>
+	</div>
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
 <html>
 	<head>
 		<link rel="stylesheet" href="compiled/flipclock.css">
@@ -20,4 +34,4 @@
 			});
 		</script>
 	</body>
-</html>
+</html> -->
