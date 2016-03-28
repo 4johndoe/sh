@@ -1,0 +1,30 @@
+p {
+	font-family: Arial;
+	/*text-shadow: -4px 4px 2px #999999;*/
+	text-align: justify;
+}
+p:first-letter {
+	font-weight: bold;
+	color: red;
+}
+.container {
+	height: 350px;
+}
+.img {
+	width: 300px;
+	height: 300px;
+	/*background-color: red;*/
+	border: solid 2px gray;
+	border-radius: 20px;
+	margin: auto;
+	float: left;
+}
+.one {
+	margin-left: 300px;
+}
+.two {
+	margin-left: 50px;
+}
+.hovered {
+	box-shadow: 0 2px 0px -1px black;
+}

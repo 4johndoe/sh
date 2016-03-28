@@ -2,36 +2,21 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>Simple doc</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, hic.</p>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum mollitia rem quasi cupiditate eaque nihil, perspiciatis neque soluta laborum, magnam, eos quas expedita! Vel tenetur iure aut eius, nostrum atque?</p>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ab rerum mollitia aperiam velit at cum laudantium, autem id. Eos corporis dolorum autem quisquam animi. Illo consequatur vel pariatur esse voluptas, tempore suscipit mollitia, optio est similique aliquid aut, fuga alias sit quo architecto odio nesciunt debitis reiciendis quaerat totam eveniet natus, ratione quae. Perspiciatis quas ducimus dicta illum nostrum esse fugit est. Repellat, porro. Temporibus natus, aspernatur. Ut a deserunt dicta odit, consectetur nam! Earum dolor quidem omnis illo magni. Ipsa quaerat omnis animi nostrum, totam ab accusantium voluptate. Doloremque iste eius sequi alias autem ad, incidunt dolores eum.</p>
 	<div class="container">
-		<a href="truck.html"><img src="truck.svg" alt="" class="img-rounded"></a>
-		<a href="train.html"><img src="train.svg" alt="" class="img-rounded"></a>
+		<div class="img one"></div>
+		<div class="img two"></div>	
 	</div>
+	<script src="compiled/jquery.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>
-
-<!-- <!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" href="compiled/flipclock.css">
-	</head>
-	<body>
-	<br>
-		<div class="clock"></div>
-
-
-
-		<script src="compiled/jquery-1.12.2.js"></script>
-		<script src="compiled/flipclock.min.js"></script>
-
-		<script type="text/javascript">
-			var clock = $('.clock').FlipClock(3600 * 24 * 3, {
-				clockFace: 'DailyCounter',
-				// autoStart: false,
-				countdown: false
-			});
-		</script>
-	</body>
-</html> -->
