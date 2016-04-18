@@ -28,7 +28,7 @@
 	<header id="masthead">
     <div class="wrap clearfix">
 	     <div class="fix">
-	       <h1 id="logo"><a href="/">Build 2012</a></h1>
+	       <h1 id="logo"><a href=".">Build 2012</a></h1>
 	       <a class="nav-button">
 	         <span class="icon-bar"></span>
 	         <span class="icon-bar"></span>
@@ -36,18 +36,17 @@
 	       </a>
          <nav>
            <ul class="top clearfix">
-             <li class="first"><a href="/film/"><span>Monday</span>Film</a></li>
-             <li><a href="/workshops/"><span>Tuesday</span>Workshops</a></li>
-             <li class="last"><a href="/practical/"><span>Wednesday</span>Practical</a></li>
+             <li class="first"><a href="/film/"><span>Автоперевозки</span>Автоперевозки</a></li>
+             <li><a href="/workshops/"><span>ЖД перевозки</span>ЖД перевозки</a></li>
+             <li class="last"><a href="/practical/"><span>ru</span>ru</a></li>
            </ul>
            <ul class="bottom clearfix">
-             <li class="first"><a href="/conference/"><span>Thursday</span>Conference</a></li>
-             <li><a href="/music/"><span>Friday</span>Music</a></li>
-             <li class="last"><a href="/fringe/"><span>Various</span>Fringe</a></li>
+             <li class="first"><a href="/conference/"><span>Законодательство</span>Законодательство</a></li>
+             <li><a href="/music/"><span>Фото</span>Фото</a></li>
+             <li class="last"><a href="/fringe/"><span>Контакты</span>Контакты</a></li>
            </ul>
          </nav>
         </div>
-
     </div>
   </header>
   <!-- <div class="pattern"></div> -->
@@ -95,23 +94,23 @@
 	   	 <ul class="row clearfix">
 	       <li class="first">
   	       <h4>Swag Out</h4>
-  	       <h3><a class="footer_shop" href="http://draftsupply.co">Draft Supply&nbsp;Co.</a></h3>
+  	       <h3><a class="footer_shop" href="#">Draft Supply&nbsp;Co.</a></h3>
 	       </li>
 	       <li>
   	       <h4>What&#8217;s New?</h4>
-  	       <h3><a class="footer_blog" href="http://blog.buildconf.com">Read Our&nbsp;Blog</a></h3>
+  	       <h3><a class="footer_blog" href="#">Read Our&nbsp;Blog</a></h3>
 	       </li>
 	       <li>
   	       <h4>Get the Latest</h4>
-  	       <h3><a class="footer_twitter" href="http://twitter.com/buildconf">Follow on Twitter</a></h3>
+  	       <h3><a class="footer_twitter" href="#">Follow on Twitter</a></h3>
 	       </li>
 	       <li class="last">
   	       <h4>Keep in Touch</h4>
-  	       <h3><a class="footer_facebook" href="http://facebook.com/cometobuild"">Like on Facebook</a></h3>
+  	       <h3><a class="footer_facebook" href="#"">Like on Facebook</a></h3>
 	       </li>
 	     </ul>
 	   </div>
 	 </footer>
-	 <div id="credits"><a href="http://fiction.co">&copy; 2012 Andy McMillan</a> / <a href="http://twitter.com/kylemeyer">Design by Kyle Meyer</a> / <a href="http://riothq.com">Development by Riot</a> / <a href="http://timboelaars.nl">Icons by Tim Boelaars</a> / <a href="http://bld.co/2012refundpolicy">Refund Policy</div>
+	 <div id="credits"><a href="#">&copy; 2016 Sharon Group</a> / <a href="#"></a> / <a href="#">Development by</a> / <a href="#">Icons by </a> / <a href="#">Refund Policy</div>
 	</body>
 </html>
