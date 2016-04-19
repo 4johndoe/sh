@@ -12,12 +12,12 @@
 		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
 		<!--  -->
 		<!-- <link href="css/style.css" type="text/css" rel="stylesheet" media="screen" /> -->
-		<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen" />
-		<link href="css/home.css" type="text/css" rel="stylesheet" media="screen" />
-		<link href="languages.css" type="text/css" rel="stylesheet" media="screen" />
+		<link href="../css/styles.css" type="text/css" rel="stylesheet" media="screen" />
+		<link href="../css/home.css" type="text/css" rel="stylesheet" media="screen" />
+		<link href="../languages.css" type="text/css" rel="stylesheet" media="screen" />
 		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-		<script type="text/javascript" src="js/typekit.js"></script>
+		<script type="text/javascript" src="../js/typekit.js"></script>
     <!--[if lt ie 9]> 
 	    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></Script> 
     <![endif]-->
@@ -68,7 +68,7 @@
 	     <ul class="row clearfix">
 	       <li class="first col2">
 	         <!-- <span class="img_wrap"><a href="/fringe/#event_charles"><img src="images/kickstarter.png" /></a></span> -->
-	         <span class="img_wrap"><a href="#"><img src="truck.jpg" /></a></span>
+	         <span class="img_wrap"><a href="#"><img src="../truck.jpg" /></a></span>
 	         <span class="desc_wrap">
 	           <h4>An Evening With</h4>
   	           <h3>Автомобильные грузоперевозки</h3>
@@ -78,7 +78,7 @@
 	       
 	       <li class="last col2">
 	         <!-- <span class="img_wrap"><a href="/fringe/#event_openbookexam"><img src="images/exam.png" /></a></span> -->
-	         <span class="img_wrap"><a href="#"><img src="train.png" /></a></span>
+	         <span class="img_wrap"><a href="#"><img src="../train.png" /></a></span>
 	         <span class="desc_wrap">
 	           <h4>The Standardistas&#8217;</h4>
 	           <h3>Ж/Д перевозки</h3>
@@ -92,12 +92,12 @@
 	 	 <div class="wrap">
 	 	 		<h4>Наши партнёры и клиенты</h4>
 	 	 		<ul class="row clearfix">
-	 	 			<li class="first"><a href="#"><img src="sp/hlebinvest.jpg" alt="Mailchimp" /></a></li>
-	 	 			<li><a href="#"><img src="sp/logo.png" alt="Dropbox" /></a></li>
-	 	 			<li><a href="#"><img src="sp/apg.jpg" alt="Shopify" /></a></li>
-	 	 			<li><a href="#"><img src="sp/kormaukraine.jpg" alt="Heroku" /></a></li>
-	 	 			<li class="last"><a href="#"><img src="sp/mhp2.jpg" alt="Typecast" /></a></li>
-	 	 			<li><a href="#"><img src="sp/investreidingservise.jpg" alt="The Manual" /></a></li>
+	 	 			<li class="first"><a href="#"><img src="../sp/hlebinvest.jpg" alt="Mailchimp" /></a></li>
+	 	 			<li><a href="#"><img src="../sp/logo.png" alt="Dropbox" /></a></li>
+	 	 			<li><a href="#"><img src="../sp/apg.jpg" alt="Shopify" /></a></li>
+	 	 			<li><a href="#"><img src="../sp/kormaukraine.jpg" alt="Heroku" /></a></li>
+	 	 			<li class="last"><a href="#"><img src="../sp/mhp2.jpg" alt="Typecast" /></a></li>
+	 	 			<li><a href="#"><img src="../sp/investreidingservise.jpg" alt="The Manual" /></a></li>
 	 	 		</ul>
 	 	 </div>
 	 </section>
