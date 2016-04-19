@@ -284,6 +284,7 @@ header #logo a {
 
 header #logo a:hover {
   background-color: #191818;
+  background: #191818 url(../logocolor.png) 50% 50% no-repeat;
   }
 
 header nav {
@@ -423,14 +424,16 @@ section.intro_section {
   background: #fff;
   }
   
-.pattern {
-  height: 31px;
-  background: transparent url(../images/shadow-patt.png) 50% 100% repeat-x;
+.pattern1 {
+  /*height: 10px;*/
+  /*background: transparent url(../images/shadow-patt.png) 50% 100% repeat-x;*/
   position: absolute;
   z-index: 100;
-  top: 156px;
+  /*top: 154px;*/
   left: 0;
   right: 0;
+  /**/
+  border-bottom: 4px solid red;
   }
 
 p.intro {
@@ -715,7 +718,8 @@ section.daynav {
 	}
 
 .home p.home_register {
-	margin-bottom: 35px;
+	margin-bottom: 0px;
+  margin-left: 800px;
 	}
 
 .home p.home_register a.btn {
@@ -2045,3 +2049,45 @@ input.btn {
 
 }
 
+.lang {
+  display:table-cell; 
+  padding-left:18px; 
+  padding-right:15px; 
+  vertical-align: middle; 
+  width:150px;
+  float: right;
+}
+.lang a {
+  text-decoration:none;
+  width:58px;
+  height:58px;
+  display:inline-block;
+  margin-right:-16px;
+  transform: scale(0.65);
+  -webkit-transform: scale(0.65);
+  -moz-transform: scale(0.65);
+  -o-transform: scale(0.65);
+  -webkit-transition:all 300ms;
+  -moz-transition:all 300ms;
+  -o-transition:all 300ms;
+  transition:all 300ms;
+  }
+.lang a:hover{
+  text-decoration:none;
+  transform: scale(0.85);
+  -webkit-transform: scale(0.85);
+  -moz-transform: scale(0.85);
+  -o-transform: scale(0.85);
+  -webkit-transition:all 200ms;
+  -moz-transition:all 200ms;
+  -o-transition:all 200ms;
+  transition:all 200ms;
+  }
+
+
+  .lang .lang1 {background:url(../e_langsel2.png) no-repeat 0 0}
+  .lang .lang2 {background:url(../e_langsel2.png) no-repeat -78px 0}
+  .lang .lang3 {background:url(../e_langsel2.png) no-repeat -155px 0}
+  /*.lang .lang4 {background:url(../e_langsel.png) no-repeat -232px 0}
+  .lang .lang5 {background:url(../e_langsel.png) no-repeat -309px 0}
+  .lang .lang6 {background:url(../e_langsel.png) no-repeat -386px 0}*/

@@ -215,6 +215,11 @@ section#conference a:hover img {
 	margin-top: -5px;
 	}
 
+/**/
+section#fringe a:hover img {
+  margin-top: -5px;
+  }
+
 section#conference p.dateloc {
 	text-align: center;
 	margin: 0;

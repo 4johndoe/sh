@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Build 2012</title>
+		<title>Sharon Group</title>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 		<meta name="descripton" content="Build is a small, yet perfectly formed, design conference taking place this November in Belfast, Northern Ireland." />
 		<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
-		<link rel="shortcut icon" href="favicon.png">
+		<link rel="shortcut icon" href="favicon.ico">
+		<!-- Latest compiled and minified CSS -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
+		<!--  -->
+		<!-- <link href="css/style.css" type="text/css" rel="stylesheet" media="screen" /> -->
 		<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen" />
 		<link href="css/home.css" type="text/css" rel="stylesheet" media="screen" />
-		<link href="languages" type="text/css" rel="stylesheet" media="screen" />
+		<link href="languages.css" type="text/css" rel="stylesheet" media="screen" />
 		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 		<script type="text/javascript" src="js/typekit.js"></script>
@@ -28,7 +32,7 @@
 	<header id="masthead">
     <div class="wrap clearfix">
 	     <div class="fix">
-	       <h1 id="logo"><a href=".">Build 2012</a></h1>
+	       <h1 id="logo"><a href=".">Sharon Group</a></h1>
 	       <a class="nav-button">
 	         <span class="icon-bar"></span>
 	         <span class="icon-bar"></span>
@@ -38,21 +42,29 @@
            <ul class="top clearfix">
              <li class="first"><a href="/film/"><span>Автоперевозки</span>Автоперевозки</a></li>
              <li><a href="/workshops/"><span>ЖД перевозки</span>ЖД перевозки</a></li>
-             <li class="last"><a href="/practical/"><span>ru</span>ru</a></li>
+             <li class="last"><a href="/practical/"><span>Контакты</span>Контакты</a></li>
            </ul>
            <ul class="bottom clearfix">
              <li class="first"><a href="/conference/"><span>Законодательство</span>Законодательство</a></li>
              <li><a href="/music/"><span>Фото</span>Фото</a></li>
-             <li class="last"><a href="/fringe/"><span>Контакты</span>Контакты</a></li>
+             <li class="last"><a href=""><span></span></a>
+         	</li>
            </ul>
          </nav>
         </div>
     </div>
   </header>
-  <!-- <div class="pattern"></div> -->
+  <div class="pattern1"></div>
+	   <div class="wrap">
+	   	<div class="lang">
+			<a class="lang1" href="./en/"></a>
+			<a class="lang2" href=""></a>
+			<a class="lang3" href="./pl/"></a>
+		</div>
+	   </div>
+
 	 <section id="fringe">
 	   <div class="wrap">
-	     
 	     <ul class="row clearfix">
 	       <li class="first col2">
 	         <!-- <span class="img_wrap"><a href="/fringe/#event_charles"><img src="images/kickstarter.png" /></a></span> -->
@@ -66,7 +78,7 @@
 	       
 	       <li class="last col2">
 	         <!-- <span class="img_wrap"><a href="/fringe/#event_openbookexam"><img src="images/exam.png" /></a></span> -->
-	         <span class="img_wrap"><a href="/fringe/#event_openbookexam"><img src="train.jpg" /></a></span>
+	         <span class="img_wrap"><a href="/fringe/#event_openbookexam"><img src="train.png" /></a></span>
 	         <span class="desc_wrap">
 	           <h4>The Standardistas&#8217;</h4>
 	           <h3>Ж/Д перевозки</h3>
@@ -106,11 +118,15 @@
 	       </li>
 	       <li class="last">
   	       <h4>Keep in Touch</h4>
-  	       <h3><a class="footer_facebook" href="#"">Like on Facebook</a></h3>
+  	       <h3><a class="footer_facebook" href="#">Like on Facebook</a></h3>
 	       </li>
 	     </ul>
 	   </div>
 	 </footer>
 	 <div id="credits"><a href="#">&copy; 2016 Sharon Group</a> / <a href="#"></a> / <a href="#">Development by</a> / <a href="#">Icons by </a> / <a href="#">Refund Policy</div>
+	<!-- Latest compiled and minified JavaScript
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	  -->
+	<script type="text/javascript" src="js/my.js"></script>
 	</body>
 </html>
